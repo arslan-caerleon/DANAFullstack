@@ -2,7 +2,7 @@ name: Senggol CIA
 
 on:
  push:
-  branches: [ deploy ]
+  branches: [ master ]
  #pull_request:
 
 jobs:
