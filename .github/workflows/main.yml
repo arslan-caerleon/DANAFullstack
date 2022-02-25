@@ -1,4 +1,4 @@
-name: Senggol CI
+name: Senggol CIA
 
 on:
  push:
