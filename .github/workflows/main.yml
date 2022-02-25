@@ -23,10 +23,10 @@ jobs:
      with:
       context: ./senggol
       push: true
-      tags: arslan-caerleon/senggol-backend:latest
+      tags: calexal/senggol-backend:latest
    - name: Build and push senggol frontend
      uses: docker/build-push-action@v2
      with:
       context: ./senggol-frontend
       push: true
-      tags: arslan-caerleon/senggol-frontend:latest              
+      tags: calexal/senggol-frontend:latest              
